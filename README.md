@@ -39,7 +39,7 @@ https://akash301994.github.io/html_git_css_challenge_1/
 
 ## Screenshots
 
-![screenshot](/html_git_css_challenge_1/assets/images/horiseon_website.jpeg)
+![screenshot](./assets/images/horiseon_website.jpeg)
 
 ## Contact
 
